@@ -30,5 +30,6 @@ if (is_numeric($cantidad) && is_numeric($precio) && $cantidad > 0 && $precio > 0
 } else {
     echo "Por favor, ingrese valores válidos para la cantidad y el precio." . PHP_EOL;
 }
+// Este es el segundo comentario: Cálculo final del precio después del descuento
 ?>
 
