@@ -26,4 +26,6 @@ $esInvierno = ($mes == "abril" || $mes == "mayo" || $mes == "junio" || $mes == "
 $mensaje = ($esInvierno) ? "Se debe usar la siembra en almácigo." : "Se puede realizar la siembra directa.";
 
 echo $mensaje . "\n";
+// Segundo comentario: Verificación de la adecuación del terreno para la siembra.
+
 ?>
