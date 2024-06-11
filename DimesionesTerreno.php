@@ -13,4 +13,6 @@ $areaTotal = $largo * $ancho;
 $mensaje = ($areaTotal >= 1000) ? "El terreno es adecuado para cultivos extensivos." : "El terreno es más adecuado para cultivos de jardín o huerto.";
 
 echo $mensaje . "\n";
+// Segundo comentario: Verificación del cálculo del área del terreno.
+
 ?>
