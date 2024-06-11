@@ -20,4 +20,6 @@ $montoDescuento = $subtotal * $descuento;
 $totalPagar = $subtotal - $montoDescuento;
 
 echo "El total a pagar después del descuento es: $totalPagar\n";
+// Segundo comentario: Cálculo final del precio de la camisa después del descuento.
+
 ?>
