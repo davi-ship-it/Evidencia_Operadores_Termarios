@@ -14,4 +14,6 @@ $mensaje = ($edad >= 18)
 : "No puedes conducir";
 
 echo $mensaje . "\n";
+// Segundo comentario: Validación  para la licencia según la edad.
+
 ?>
